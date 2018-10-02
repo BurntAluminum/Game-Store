@@ -1,0 +1,24 @@
+/*Redoing CSS lessons*/
+
+body {
+  background-color: #000000;
+}
+
+.titletext {
+  color: #8100d1;
+}
+
+.methodtitle {
+  color: #d7ff00;
+}
+
+.instructions {
+  color: #31f4ff;
+  width: 50%;
+}
+
+.sidebar {
+  width: 25%;
+  float: left;
+  color: #00ff00
+}

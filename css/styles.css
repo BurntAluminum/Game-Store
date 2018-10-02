@@ -1,0 +1,54 @@
+h1 {
+  color: #00ff00;
+  text-align: center;
+}
+
+h2{
+  color: #00ff00;
+  text-align: center;
+}
+
+p.intro {
+  color: #00ff00;
+  width: 50%;
+}
+p.community {
+  color: #00ff00;
+  text-align: center;
+  width: 70%
+}
+p.anticipation {
+  color: #00ff00;
+  width: 50%;
+}
+
+p.cdirepair {
+  color: #00ff00;
+  width: 50%;
+}
+
+p.author {
+  color: #00ff00;
+  font-style: oblique;
+}
+
+body {
+  background-color: #000000;
+}
+
+.prettypictures {
+  float: right;
+  width: 30%;
+}
+
+.sidebar {
+  margin: 12px;
+  border: 2px #00ff00;
+  padding: 32px;
+  width: 15%;
+  float: left;
+}
+
+li {
+  color: #00ff00
+}
