@@ -1,37 +1,19 @@
 h1 {
   color: #00ff00;
   text-align: center;
-  width: 60%;
+  width: 50%
 }
 
 h2{
   color: #00ff00;
   text-align: center;
-  width: 60%;
-}
-
-p.intro {
-  color: #00ff00;
-  width: 50%;
-}
-p.community {
-  color: #00ff00;
-  text-align: center;
-  width: 50%
-}
-p.anticipation {
-  color: #00ff00;
   width: 50%;
 }
 
-p.cdirepair {
+p {
   color: #00ff00;
   width: 50%;
-}
-
-p.author {
-  color: #00ff00;
-  width: 50%;
+  text-align: left;
 }
 
 body {
@@ -53,4 +35,9 @@ body {
 
 li {
   color: #00ff00
+}
+
+.column {
+  width: 300px;
+  float: right;
 }
